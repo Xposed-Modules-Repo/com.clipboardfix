@@ -4,7 +4,7 @@
 <a href="https://github.com/Xposed-Modules-Repo/com.clipboardfix/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.clipboardfix/total?label=Downloads"></a>
 <a href="https://github.com/Xposed-Modules-Repo/com.clipboardfix/releases/latest"><img alt="GitHub latest release" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.clipboardfix"></a>
 
-<p>🛠️修复 HyperOS 3.0第三方输入法无法读取系统剪贴板历史内容的问题</p>
+<p>🛠️修复 HyperOS第三方输入法无法读取系统剪贴板历史内容的问题</p>
 
 <p>
   <b>作者：</b>
