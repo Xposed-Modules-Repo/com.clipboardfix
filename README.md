@@ -10,7 +10,7 @@
   <b>作者：</b>
   <b><a href="https://weibo.com/u/3725737792">李十六的日记本</a></b>&
   <b><a href="https://www.coolapk.com/u/3019478">江上晚</a></b>
-  
+
 </p>
 </div>
 
@@ -21,13 +21,6 @@
 在 HyperOS 3.0（Android 16）+上，系统应用「剪贴板与常用语V4.7.7」应用会阻止第三方输入法（如微信输入法等）访问剪贴板历史数据。官方内置输入法（搜狗小米定制版、讯飞小米定制版、百度小米定制版、小米智能输入法）不受影响。
 
 此外，系统的「全面屏优化」默认只对官方定制输入法开放，第三方输入法不显示底部常用语 / 剪贴板入口。本模块一并解锁。
-
-## 💡原理
-
-**剪贴板修复**：「剪贴板与常用语V4.7.7」的 `InputProvider` 通过 `PackageManager.getNameForUid(callingUid)` 获取调用者包名，与白名单比对后决定是否允许访问。本模块 hook `PackageManager.getNameForUid()` 和 `getPackagesForUid()`，对非白名单的第三方输入法返回白名单包名，从而绕过验证。
-
-**全面屏优化解锁**：在输入法进程内 hook `InputMethodServiceInjector`，将 `sIsImeSupport` 置位并让 `isImeSupport()` 恒返回 true 以跳过包名检查；在 system_server 内放行输入法权限校验，修复切换输入法列表被裁剪的问题。
-
 
 ## 📱本人已测且能正常使用的输入法
 
