@@ -10,6 +10,10 @@
   <b>作者：</b>
   <b><a href="https://weibo.com/u/3725737792">李十六的日记本</a></b>&
   <b><a href="https://www.coolapk.com/u/3019478">江上晚</a></b>
+  
+  点击加入社群讨论：[QQ群](https://qun.qq.com/universal-share/share?ac=1&authKey=7RA6XALH28j%2BzzCdYaEn5MmfZkkXlo9zoIkwp4hPf5PwMrmNd7SQBh7FCsCa0cAC&busi_data=eyJncm91cENvZGUiOiIxMTI0MTgwNjM1IiwidG9rZW4iOiJXSEJsQi8veExjZkk3c2h5c2h6ZGFXb0hwcTRMUFJrUkd5Vjl4dzRjd3JBTW9VTWpMelo1dXFpenVsRUZnc0xJIiwidWluIjoiOTAzNzU1MzQ1In0%3D&data=8dRN21TZ3TPg67Muu8SeZK2H5364vaqNnSciPEaAOjc8A6qUkZ_GVNTue1XwsXStdd63ICjEw_rbzq0vad0VBQ&svctype=4&tempid=h5_group_info)
+
+
 
 </p>
 </div>
@@ -21,7 +25,8 @@
 在 HyperOS 3.0（Android 16）+上，系统应用「剪贴板与常用语V4.7.7」应用会阻止第三方输入法（如微信输入法等）访问剪贴板历史数据，导致第三方输入法无法使用系统剪贴板功能。
 官方内置输入法（搜狗小米定制版、讯飞小米定制版、百度小米定制版、小米小爱输入法）不受影响。
 
-## ✏支持的输入法
+
+## ✏支持的输入法 
 
 <table>
   <tr>
@@ -52,12 +57,16 @@
     <td>Gboard</td>
     <td>18.2.4</td>
   </tr>
+  <tr>
+    <td>豆包输入法</td>
+    <td>1.4.5</td>
+  </tr>
 
 </table>
 
  ✍️测试都是基于以上版本进行测试的，理论可兼容所有版本。
 
-> ❌百度输入法、豆包输入法经实测不受本模块支持，v1.4 起已从支持列表与模块作用域中移除。
+> ❌百度输入法暂不支持
 
 ## 🤖安装说明
 
@@ -83,7 +92,7 @@
 - 本模块仅修改剪贴板和常用语验证逻辑，不影响数据内容，请放心使用。
 - 如果您的系统剪贴板功能正常请勿安装本模块！
 - 从1.3版本起模块内置解锁MIUI键盘全面屏优化限制并适配HyperOS4，可能在OS3版本上存在部分异常问题，具体请自测。
-- ~~使用中如果出现输入法被异常抬高的BUG请尝试关闭小白条测试是否复现~~ (V1.4.8已修复)。
+- ~~使用中如果出现输入法被异常抬高的BUG请尝试关闭小白条测试是否复现~~（1.4.8 已修复）。
 - ~~目前模块在跨设备剪贴板存中存在bug但是不影响使用~~（v1.4.7 已修复）。
 
   
@@ -101,7 +110,3 @@
 ## License
 
 [MIT](LICENSE)
-
-## 🔎相关链接
-
-- 主仓库：[jiangshangwan/ClipboardFix](https://github.com/jiangshangwan/ClipboardFix)
