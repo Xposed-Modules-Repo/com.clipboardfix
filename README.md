@@ -1,5 +1,5 @@
 <div align="center">
-<h1>HyperFixClip</h1>
+<h1>HyperClipFix</h1>
 
 <a href="https://github.com/Xposed-Modules-Repo/com.clipboardfix/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.clipboardfix/total?label=Downloads"></a>
 <a href="https://github.com/Xposed-Modules-Repo/com.clipboardfix/releases/latest"><img alt="GitHub latest release" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.clipboardfix"></a>
@@ -64,7 +64,7 @@
 
 </table>
 
- ✍️测试都是基于以上版本进行测试的，理论可兼容所有版本。
+ ✍️测试都是基于以上版本进行测试的，理论可兼容所有版本，为保证完美运行，请关闭手势提示线，后续将不再解决手势提示线导致的问题(太麻烦了，准备放弃了)！
 
 > ❌百度输入法暂不支持
 
