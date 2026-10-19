@@ -51,17 +51,17 @@
     <td>讯飞输入法</td>
     <td>15.0.14</td>
   </tr>
-  <tr>
+   <tr>
     <td>QQ输入法</td>
     <td>8.7.15</td>
+  </tr>
+    <tr>
+    <td>豆包输入法</td>
+    <td>1.4.5</td>
   </tr>
   <tr>
     <td>Gboard</td>
     <td>18.2.4</td>
-  </tr>
-  <tr>
-    <td>豆包输入法</td>
-    <td>1.4.5</td>
   </tr>
 
 </table>
