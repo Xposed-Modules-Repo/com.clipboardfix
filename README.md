@@ -9,7 +9,7 @@
 
 <a href="https://qun.qq.com/universal-share/share?ac=1&authKey=UzK4LAt%2B2Lg3xshN1AF2GY0K8D%2Fqo3wD6Y0Hn1aturx2dhuR3ED3NFCq8s6ZAmrl&busi_data=eyJncm91cENvZGUiOiIxMTI0MTgwNjM1IiwidG9rZW4iOiJOWWE3RE5XcE9tMTI5SGtMRFNrcGF4Wi9hcE9wdlJDbUQ4cHcvU08vYlF4c3ZlUUtxWlhiYmRQdGJNSU1JalBvIiwidWluIjoiOTAzNzU1MzQ1In0%3D&data=e9KDo0FHZWGB_k0pVQfB-guEvu55ZBSomL-ql1Daq8os18WLI_-VppwYWQqbiDvGuwyLx1ol5PLFkx1kOBx4Jw&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ交流群-blue?style=flat&logo=qq&logoColor=white"></a> 
 <a href="https://github.com/jiangshangwan/ClipboardFix"><img src="https://img.shields.io/badge/GitHub仓库-black?style=falt&logo=github&logoColor=white"></a> 
-<a href="https://github.com/Xposed-Modules-Repo/com.clipboardfix"><img src="https://img.shields.io/badge/LSPosed仓库-orange?style=flat&logo=xdadevelopers&logoColor=white"></a>
+<a href="https://modules.lsposed.org/module/com.clipboardfix/"><img src="https://img.shields.io/badge/LSPosed仓库-orange?style=flat&logo=xdadevelopers&logoColor=white"></a>
 <a href="https://weibo.com/u/3725737792"><img src="https://img.shields.io/badge/微博-李十六的日记本-red?style=flat&logo=sinaweibo&logoColor=white"></a>
 <a href="https://www.coolapk.com/u/3019478"><img src="https://img.shields.io/badge/酷安-江上晚-green?style=flat&logo=fishshell&logoColor=white"></a>
 
