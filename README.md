@@ -79,15 +79,15 @@
 
 ## License
 
-HyperClipFix Copyright (c) 2026 江上晚
+HyperClipFix Copyright (c) 2026 jiangshangwan(江上晚)
 
 本模块采用 **GNU General Public License v3.0 or later** 开源。
 完整许可证文本请查看 GitHub 源码仓库：
 [LICENSE](https://raw.githubusercontent.com/jiangshangwan/ClipboardFix/main/LICENSE)
 
-> 📜协议简要说明
+### 📜协议简要说明
 ✅ 可以自由下载、查看、编译、修改，本地私下使用不受限制。
-> 
+
 ✅ 可以分发、分享本项目。
 
 ⚠️ 如果修改后再发布、打包分发，衍生作品也必须继续采用 GPL‑3.0‑or‑later，并且开放完整源代码。
@@ -96,6 +96,6 @@ HyperClipFix Copyright (c) 2026 江上晚
 
 ⚠️ 分发时必须完整保留原始许可证与版权声明，不可删除。
 
-本模块按现状提供，无任何担保；如因使用造成设备故障、数据丢失，作者不承担相关责任。
+> 本模块按现状提供，无任何担保；如因使用造成设备故障、数据丢失，作者不承担相关责任。
 
 **源码仓库：https://github.com/jiangshangwan/ClipboardFix**
